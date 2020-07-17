@@ -33,7 +33,7 @@
     "uuid": "^2.0.1",
     "shelljs": "^0.6.0",
     "redux": "^3.5.2",
-    "webpack": "^2.2.0",
+    "webpack": "^3.11.0",
     "keycode": "^2.1.1",
     "webpack-dev-middleware": "^1.6.0",
     "webpack-hot-middleware": "^2.10.0",
