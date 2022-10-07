@@ -24,7 +24,7 @@ This functionality allows you to develop UI components rapidly without worrying 
 
 ## Demo
 
-Let's look at what React Storybook does. First clone the following repo:
+Let's look at what [React](https://www.interviewbit.com/react-interview-questions/) Storybook does. First clone the following repo:
 
 ```sh
 git clone https://github.com/kadira-samples/react-storybook-demo
